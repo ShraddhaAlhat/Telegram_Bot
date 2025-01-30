@@ -89,3 +89,9 @@ What is the capital of France?
   /README.md          # Project overview
   .env                # Store API keys and other configurations
 ```
+### Logging:
+- The bot logs important events (errors, queries, responses) for better debugging and performance tracking.
+
+### Error Handling:
+
+- The bot provides feedback in case of errors (e.g., timeout errors, empty responses, invalid file formats).
