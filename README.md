@@ -95,3 +95,15 @@ What is the capital of France?
 ### Error Handling:
 
 - The bot provides feedback in case of errors (e.g., timeout errors, empty responses, invalid file formats).
+
+## Screenshots:
+1. User starts the bot:
+
+
+2. User shares contact:
+
+
+3. Web Search Results:
+
+
+4. Image Analysis:
