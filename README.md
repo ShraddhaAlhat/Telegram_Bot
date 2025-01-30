@@ -1,6 +1,6 @@
 Updating README and adding report file. code uploaded
 
-# Telegram Bot for PDF, Image, and Text Processing with WebSearch Integration
+# Telegram Bot 
 This is a Python-based Telegram bot that integrates with Google Gemini AI for natural language processing and image analysis. It can handle a wide range of tasks including answering text queries, analyzing images, summarizing documents, and searching the web.
 
 ## Features
