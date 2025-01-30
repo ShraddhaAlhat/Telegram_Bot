@@ -1,0 +1,12 @@
+python-telegram-bot[async]
+motor
+aiohttp
+python-dotenv
+pypdf2
+google-generativeai
+python-telegram-bot
+motor
+aiohttp 
+python-dotenv
+pillow
+Update
