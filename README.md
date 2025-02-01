@@ -1,4 +1,4 @@
-Updating README and adding report file. code uploaded
+Updating README and code uploaded
 
 # Telegram Bot 
 This is a Python-based Telegram bot that integrates with Google Gemini AI for natural language processing and image analysis. It can handle a wide range of tasks including answering text queries, analyzing images, summarizing documents, and searching the web.
